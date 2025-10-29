@@ -3,20 +3,14 @@
 🧑‍💻 About me
 ---
 Hi there! I'm Mikhail. I'm looking for a team where I can improve my skills and become a strong technical specialist.  
-Open to new connections and opportunities
+Open to new connections and opportunities.
 
 🎓 Education
 ---
-Belarusian State University of Informatics and Radioelectronics (BSUIR).
-Faculty of Information Technologies and Management.
-Bachelor’s degree in Automated Information Processing Systems.
-2024 – 2028 (currently 2nd year).
----
+Belarusian State University of Informatics and Radioelectronics (BSUIR).<br>Faculty of Information Technologies and Management.<br>Bachelor’s degree in Automated Information Processing Systems.<br>2024 – 2028 (currently 2nd year).
 
-## 🧠 Hard Skills
----
-
-### 🖥️ Backend Development
+## 🛠 Hard Skills<br>
+### Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,7 +22,7 @@ Bachelor’s degree in Automated Information Processing Systems.
 ![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-### 🧰 DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -36,7 +30,7 @@ Bachelor’s degree in Automated Information Processing Systems.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 🧩 Projects
+## Projects
 
 - 🛋️ **Furniture Store Website** — Django, Celery, REST API, Docker  
 - 🤖 **Telegram Bot for Print Center** — Aiogram, asyncio, SQLite  
