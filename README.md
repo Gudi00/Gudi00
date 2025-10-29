@@ -11,7 +11,6 @@ Belarusian State University of Informatics and Radioelectronics (BSUIR).
 Faculty of Information Technologies and Management.
 Bachelor’s degree in Automated Information Processing Systems.
 2024 – 2028 (currently 2nd year).
-
 ---
 
 ## 🧠 Hard Skills
@@ -27,7 +26,6 @@ Bachelor’s degree in Automated Information Processing Systems.
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
 
 ### 🧰 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,7 +34,6 @@ Bachelor’s degree in Automated Information Processing Systems.
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
 ## 🧩 Projects
 
@@ -45,13 +42,11 @@ Bachelor’s degree in Automated Information Processing Systems.
 - 🌐 **Social Network Prototype** — FastAPI, Docker  
 - 🧠 **Hackathon by T1 (SmartSupport)** — Support system using ML and LLM integration  
 
----
 
 ## 🌍 Languages
 ![Russian](https://img.shields.io/badge/Russian-Native-blue?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Basic-blue?style=for-the-badge)
 
----
 
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-ioskomihailaa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ioskomihailaa@gmail.com)
