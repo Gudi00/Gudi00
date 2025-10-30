@@ -7,7 +7,7 @@ Open to new connections and opportunities.
 
 🎓 Education
 ---
-Belarusian State University of Informatics and Radioelectronics (BSUIR).<br>Faculty of Information Technologies and Management.<br>Bachelor’s degree in Automated Information Processing Systems.<br>2024 – 2028 (currently 2nd year).
+Belarusian State University of Informatics and Radioelectronics (BSUIR).<br>Faculty of Information Technologies and Control.<br>I am studying Automated Information Processing Systems.<br>2024 – 2028 (currently 2nd year).
 
 ## 🛠 Hard Skills<br>
 ### Backend Development
