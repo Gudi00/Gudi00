@@ -2,12 +2,6 @@
 
 # 👋 Mikhail Iosko | Backend Developer
 
-[![Backend Developer](https://img.shields.io/badge/Backend_Developer-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![DevOps](https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
-[![Business Analyst](https://img.shields.io/badge/Business_Analyst-8B5CF6?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
-[![AI / ML](https://img.shields.io/badge/AI_%2F_ML-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
-
 ![Profile views](https://komarev.com/ghpvc/?username=Gudi00&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
