@@ -1,137 +1,54 @@
-<div align="center">
+# Михаил Иоско — Python Backend Developer
 
-# 👋 Mikhail Iosko | Backend Developer
+Студент 3 курса БГУИР (средний балл за всё время обучения выше 9,5). Пишу асинхронные backend-сервисы на Python: FastAPI, aiogram, SQLAlchemy, PostgreSQL, Docker. В проектах есть миграции, тесты и деплой. Ищу стажировку или позицию Junior Python Backend Developer. Минск, готов обсуждать удалённый формат.
 
-![Profile views](https://komarev.com/ghpvc/?username=Gudi00&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)
+[Почта](mailto:ioskomihailaa@gmail.com) · [Telegram](https://t.me/misha_iosko) · [LinkedIn](https://www.linkedin.com/in/misha-iosko-9ab476440/) · [GitHub](https://github.com/Gudi00)
 
-</div>
+## Стек
 
----
+| Область | Технологии |
+|---|---|
+| Язык | Python 3, SQL, ООП, asyncio |
+| Фреймворки | FastAPI, Django, aiogram 3, Pydantic |
+| Базы данных | PostgreSQL, SQLite, SQLAlchemy 2.0 (ORM, async), Alembic, Redis |
+| Фоновые задачи | Celery, APScheduler |
+| Аутентификация | JWT, bcrypt |
+| Тестирование | pytest, pytest-asyncio |
+| Инфраструктура | Docker, Docker Compose, Linux, Git, деплой на сервер |
+| Документация | UML, LaTeX |
 
-## 🧑‍💻 About me
+## Проекты
 
-Hi there! I'm Mikhail. I'm looking for a team where I can improve my skills and become a strong technical specialist.
-Open to new connections and opportunities.
+Часть репозиториев приватная. Доступ к коду дам по запросу на собеседовании.
 
-## 🎓 Education
+**BargainBot** · private · Python, FastAPI, aiogram, PostgreSQL, SQLAlchemy async, Alembic, Docker Compose, pytest
+Telegram-бот мониторит объявления на Kufar.by и присылает выгодные. Три основных сервиса: бот, API на FastAPI и PostgreSQL. Уведомления доставляются через очередь в БД с повторными попытками. Покрыт 232 тестами.
 
-Belarusian State University of Informatics and Radioelectronics (BSUIR).<br>Faculty of Information Technologies and Control.<br>I am studying Automated Information Processing Systems.<br>2024 – 2028 (currently 2nd year).
+**Бот очередей для студенческих групп** · private · aiogram, SQLAlchemy async, SQLite, APScheduler, Docker, pytest
+Строит очереди на сдачу лабораторных по расписанию БГУИР (через API iis.bsuir.by), поддерживает 4 режима очереди, обмен местами и уведомления. Развёрнут через Docker и systemd.
 
----
+**Бот для заказов печати** · private · aiogram, SQLAlchemy, SQLite, PyMuPDF, APScheduler, pytest
+Принимает PDF, считает стоимость по числу страниц, ведёт внутренний счёт, скидки и реферальную систему, уведомляет администратора. Использовался для платных заказов печати в общежитии.
 
-## 🛠 Hard Skills
+**REST API социальной сети** · private · FastAPI, PostgreSQL, SQLAlchemy, Alembic, JWT, Redis, Docker, pytest
+Регистрация, вход по JWT, посты, голосования. Refresh-токены хранятся с blacklist в Redis, схема БД версионируется Alembic, есть dev/prod конфигурации Docker Compose. Учебный проект, расширенный сверх курса.
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Сайт мебельного магазина** · [github.com/Gudi00/django](https://github.com/Gudi00/django) · Django, Celery, Redis, Docker
+Каталог, профили, заказы, асинхронные и периодические задачи на Celery и Celery Beat.
 
-### Languages
+**Будульники: данные расписаний** · [github.com/Gudi00/budulniki-data](https://github.com/Gudi00/budulniki-data)
+Еженедельно собирает расписания всех групп БГУИР из открытого API iis.bsuir.by и публикует сжатый индекс занятости.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## Достижения
 
-</td>
-<td valign="top" width="50%">
+- Победитель конкурса на грант Парка высоких технологий для студентов
+- Участник хакатонов T1, МТС и БГУИР
+- Средний балл за всё время обучения выше 9,5
 
-### Backend
+## Образование
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+Белорусский государственный университет информатики и радиоэлектроники, факультет информационных технологий и управления, специальность «Автоматизированные системы обработки информации». 2024–2028, сейчас 3 курс.
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+## Языки
 
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logo=databricks&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-### Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-### Business Analysis
-
-![UML](https://img.shields.io/badge/UML-7C3AED?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![BPMN](https://img.shields.io/badge/BPMN-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-## Projects
-
-- 🛋️ **Furniture Store Website** — Django, Celery, REST API, Docker
-- 🤖 **Telegram Bot for Print Center** — Aiogram, asyncio, SQLite
-- 🌐 **Social Network Prototype** — FastAPI, Docker
-- 🧠 **Hackathon by T1 (SmartSupport)** — Support system using ML and LLM integration
-
----
-
-## 🌍 Languages
-
-![Russian](https://img.shields.io/badge/Russian-Native-blue?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Basic-blue?style=for-the-badge)
-
----
-
-## 📬 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-ioskomihailaa@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ioskomihailaa@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/misha_iosko)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gudi00)
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/Gudi00">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gudi00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gudi00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gudi00&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
+Русский — родной. Английский — B2 (чтение технической документации, переписка).
