@@ -9,7 +9,7 @@
 | Область | Технологии |
 |---|---|
 | Язык | Python 3, SQL, ООП, asyncio |
-| Фреймворки | FastAPI, Django, aiogram 3, Pydantic |
+| Фреймворки | FastAPI, Django, aiogram 3 |
 | Базы данных | PostgreSQL, SQLite, SQLAlchemy 2.0 (ORM, async), Alembic, Redis |
 | Фоновые задачи | Celery, APScheduler |
 | Аутентификация | JWT, bcrypt |
@@ -36,9 +36,6 @@ Telegram-бот мониторит объявления на Kufar.by и при�
 **Сайт мебельного магазина** · [github.com/Gudi00/django](https://github.com/Gudi00/django) · Django, Celery, Redis, Docker
 Каталог, профили, заказы, асинхронные и периодические задачи на Celery и Celery Beat.
 
-**Будульники: данные расписаний** · [github.com/Gudi00/budulniki-data](https://github.com/Gudi00/budulniki-data)
-Еженедельно собирает расписания всех групп БГУИР из открытого API iis.bsuir.by и публикует сжатый индекс занятости.
-
 ## Достижения
 
 - Победитель конкурса на грант Парка высоких технологий для студентов
@@ -51,4 +48,4 @@ Telegram-бот мониторит объявления на Kufar.by и при�
 
 ## Языки
 
-Русский — родной. Английский — B2 (чтение технической документации, переписка).
+Русский — родной. Английский — B2.
